@@ -29,6 +29,10 @@ class Song
   end
 
   def self.genre_count
-    @@genre_count = Hash[genre, genre.length]
+    @@genre_count = Hash[@genre, @genre.length]
   end
+
+  def self.artist_coutn
+    
+  
 end
