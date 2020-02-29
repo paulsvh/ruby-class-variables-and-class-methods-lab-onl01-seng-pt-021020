@@ -33,6 +33,6 @@ class Song
   end
 
   def self.artist_coutn
-    
-  
+
+
 end
